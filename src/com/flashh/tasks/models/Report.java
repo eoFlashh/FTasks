@@ -1,4 +1,4 @@
-package com.flashh.agenda.models;
+package com.flashh.tasks.models;
 
 public class Report {
     public void generateTaskReport(Task[] tasks) {

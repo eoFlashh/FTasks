@@ -1,4 +1,4 @@
-package com.flashh.agenda.enums;
+package com.flashh.tasks.enums;
 
 public enum ProjectType {
     DEVELOPMENT("development"),

@@ -1,4 +1,4 @@
-package com.flashh.agenda.models;
+package com.flashh.tasks.models;
 
 public interface Attributable {
     void addPerson(Person person);

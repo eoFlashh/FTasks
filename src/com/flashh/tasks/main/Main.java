@@ -1,8 +1,8 @@
-package com.flashh.agenda.main;
+package com.flashh.tasks.main;
 
-import com.flashh.agenda.models.Person;
-import com.flashh.agenda.models.Report;
-import com.flashh.agenda.models.Task;
+import com.flashh.tasks.models.Person;
+import com.flashh.tasks.models.Report;
+import com.flashh.tasks.models.Task;
 
 import java.util.Scanner;
 

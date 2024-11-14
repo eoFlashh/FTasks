@@ -1,8 +1,8 @@
-package com.flashh.agenda.models;
+package com.flashh.tasks.models;
 
-import com.flashh.agenda.enums.Priority;
-import com.flashh.agenda.enums.ProjectType;
-import com.flashh.agenda.enums.TaskStatus;
+import com.flashh.tasks.enums.Priority;
+import com.flashh.tasks.enums.ProjectType;
+import com.flashh.tasks.enums.TaskStatus;
 
 public abstract class TaskBase {
     public String name;

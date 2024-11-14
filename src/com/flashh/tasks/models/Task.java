@@ -1,5 +1,5 @@
-package com.flashh.agenda.models;
-import com.flashh.agenda.enums.TaskStatus;
+package com.flashh.tasks.models;
+import com.flashh.tasks.enums.TaskStatus;
 
 public class Task extends TaskBase implements Attributable, StatusUpdatable {
     public Person[] persons;
